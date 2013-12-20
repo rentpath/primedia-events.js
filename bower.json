@@ -1,0 +1,12 @@
+{
+  "name": "primedia_events",
+  "version": "0.0.1",
+  "main": "primedia_events.js",
+  "dependencies": {
+    "jquery": null
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}

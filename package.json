@@ -1,6 +1,6 @@
 {
-  "name": "primedia_events",
-  "version": "0.0.3",
+  "name": "primedia-events",
+  "version": "0.0.5",
   "description": "Single events object",
   "homepage": "https://github.com/primedia/primedia_events.js",
   "author": {

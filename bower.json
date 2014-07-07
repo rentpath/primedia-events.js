@@ -1,7 +1,7 @@
 {
   "name": "primedia_events",
-  "version": "0.0.5",
-  "main": "primedia_events.js",
+  "version": "0.0.6",
+  "main": "primedia-events.js",
   "dependencies": {
     "jquery": null
   },

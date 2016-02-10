@@ -3,6 +3,7 @@
   "version": "0.0.6",
   "description": "Single events object",
   "homepage": "https://github.com/primedia/primedia_events.js",
+  "main": "primedia-events.js",
   "author": {
     "name": "Primedia"
   },

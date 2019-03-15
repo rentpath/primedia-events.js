@@ -2,7 +2,7 @@
   "name": "primedia_events",
   "version": "0.0.7",
   "description": "Single events object",
-  "homepage": "https://github.com/rentpath/primedia_events.js",
+  "homepage": "https://github.com/rentpath/primedia-events.js",
   "main": "primedia-events.js",
   "author": {
     "name": "RentPath"
@@ -10,8 +10,8 @@
   "repositories": [
     {
         "type": "git",
-        "url": "https://github.com/rentpath/primedia_events.js.git"
+        "url": "https://github.com/rentpath/primedia-events.js.git"
     }
   ],
-  "github": "https://github.com/rentpath/primedia_events.js.git"
+  "github": "https://github.com/rentpath/primedia-events.js.git"
 }
